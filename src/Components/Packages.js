@@ -2,7 +2,7 @@ import React from 'react'
 
 const packages = () => {
   return (
-    <div className="md:flex md:flex-row justify-center gap-[150px] text-white mt-[15rem] lg:mt-[5rem] m-auto">
+    <div className="md:flex md:flex-row justify-center gap-[150px] text-white mt-[15rem] lg:mt-[5rem] m-auto p-5">
         {/* Texts */}
         <div>
             <img src="/Assets/img/large-bar.svg" alt="Red-bar"/>

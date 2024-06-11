@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.img-sec {
+  background-image: url("/public/Assets/img/pencils.svg");
+}
+
+.background {
+  background-image: url("/public/Assets/img/Table.svg");
+}

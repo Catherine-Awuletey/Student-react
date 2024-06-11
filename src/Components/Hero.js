@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <>
       <Navbar />
-      <div className="flex flex-col lg:flex-row items-center justify-center gap-24">
+      <div className="flex flex-col lg:flex-row items-center justify-center gap-24 p-5">
         <div className="flex flex-col gap-3 lg:w-[25%] pt-10 lg:pt-0">
           <p className="text-[#8D5CF6]">Join us</p>
           <h1 className="lg:text-4xl text-xl font-bold leading-snug text-white">
